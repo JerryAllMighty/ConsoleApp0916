@@ -19,8 +19,7 @@ namespace ConsoleApp0916
             }
             else
             {
-                Console.WriteLine("Error! 숫자로 입력해달라능!!")
-                    Console.WriteLine( "123" ); ;
+                Console.WriteLine("Error! 숫자로 입력해달라능!!");
                 return 0;
             };
         }
